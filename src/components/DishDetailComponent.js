@@ -17,7 +17,6 @@ class RenderComments extends Component {
 
         this.state = {
             isModalOpen: false,
-            
         };
 
         this.toggleModal = this.toggleModal.bind(this);
